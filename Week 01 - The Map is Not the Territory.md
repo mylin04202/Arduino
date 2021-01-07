@@ -14,7 +14,7 @@ Now based on what you know, do the first 3 labs in the Arduino handbook
 
 https://www.tinkercad.com/things/0vF7MfFIaHb-glorious-tumelo-borwo/editel
 
-![image-20210108014842820](/Users/noahl/Library/Application Support/typora-user-images/image-20210108014842820.png)
+https://github.com/mylin04202/img/blob/main/w1l01.png
 
 
 
