@@ -11,6 +11,7 @@ Playing with fades
 Take a short video to submit of the working circuit, or put a link to your tinkercad project you've made public on your blog.
 
 https://www.tinkercad.com/things/4PQAZPA3scv-week03lab01/editel
+![image](https://github.com/mylin04202/img/blob/main/W03L01.jpg)
 
 ### Lab 02 Voltage Dividers
 
@@ -19,6 +20,7 @@ Hook up the circuit in the slides with the light dependent resistor.
 Take a short video to submit of the working circuit, or put a link to your tinkercad project you've made public on your blog.
 
 https://www.tinkercad.com/things/dvBfcmGSWFj-week03lab02/editel
+![image](https://github.com/mylin04202/img/blob/main/W03L02.jpg)
 
 ### Lab 03: Dark detecting Circuit
 
@@ -29,6 +31,7 @@ Making a dark detecting LED (From Circuit diagram to breadboard) Build this proj
 Take a short video to submit of the working circuit, or put a link to your tinkercad project you've made public on your blog. Note in Tinkercad the phototransistor here is called an Ambient Light Sensor [Phototransistor]
 
 https://www.tinkercad.com/things/i0Zs0F1QmHS-week03lab03/editel
+![image](https://github.com/mylin04202/img/blob/main/W03L03.jpg)
 
 #### Lab 03b: Touch Sensor (KIT ONLY) 
 
@@ -44,5 +47,5 @@ Before doing this lab, it's important to do this week's reading, listed below. Y
 Systems which feedback on themselves often feel more alive to us than static systems which only output data. Design a system, based on what we have learned so far, which feedbacks on itself. How could interaction work within a system which is continually feeding back on itself?
 
 
-
 https://www.tinkercad.com/things/2gEmtTSgQDb-week03lab04/editel
+![image](https://github.com/mylin04202/img/blob/main/W03L04.jpg)
