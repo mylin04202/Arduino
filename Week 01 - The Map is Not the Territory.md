@@ -22,7 +22,8 @@ https://www.tinkercad.com/things/0vF7MfFIaHb-glorious-tumelo-borwo/editel
 
 https://www.tinkercad.com/things/8cIhCOYSCV6-bodacious-robo/editel?tenant=circuits
 
-![image-20210108021843713](/Users/noahl/Library/Application Support/typora-user-images/image-20210108021843713.png)
+![image](https://github.com/mylin04202/img/blob/main/w1l02.png)
+
 
 
 
@@ -30,7 +31,8 @@ https://www.tinkercad.com/things/8cIhCOYSCV6-bodacious-robo/editel?tenant=circui
 
 https://www.tinkercad.com/things/1rpvrH1GfHa-shiny-wolt/editel
 
-image-20210108022915875.png
+
+![image](https://github.com/mylin04202/img/blob/main/w1l03.png)
 
 
 #### Part 2: Creative Labs
@@ -41,4 +43,4 @@ Imagine a speculative scifi machine using only the parts from today's labs. For 
 
 https://www.tinkercad.com/things/15sUm5Re6rq-project01/editel
 
-![image-20210108022957804](/Users/noahl/Library/Application Support/typora-user-images/image-20210108022957804.png)
+![image](https://github.com/mylin04202/img/blob/main/w1l04.png)
