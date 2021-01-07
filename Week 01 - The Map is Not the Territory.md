@@ -30,8 +30,7 @@ https://www.tinkercad.com/things/8cIhCOYSCV6-bodacious-robo/editel?tenant=circui
 
 https://www.tinkercad.com/things/1rpvrH1GfHa-shiny-wolt/editel
 
-![image-20210108022915875](/Users/noahl/Library/Application Support/typora-user-images/image-20210108022915875.png)
-
+image-20210108022915875.png
 
 
 #### Part 2: Creative Labs
