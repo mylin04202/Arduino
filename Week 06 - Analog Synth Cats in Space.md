@@ -2,7 +2,7 @@
 
 ### Lab 01: Simple synths
 
-##### Requirement:
+#### Requirement:
 
 Try and build an analog synth. Note, the chip in the photos and diagrams is the same as the one in the video, they just change numbers depending on who makes it. Yours is the CD40106BE. 
 
@@ -10,9 +10,9 @@ If you have a real kit, build it, if not follow along on Tinkercad. Up to you!
 
 To hook up the basic circuit folllow this simple video for basic instructions:
 
-[https://www.youtube.com/watch?v=EmoF-sdWOCc
+https://www.youtube.com/watch?v=EmoF-sdWOCc
 
-](https://www.youtube.com/watch?v=EmoF-sdWOCc)The parts you have for the speaker connection are a bit different and should look like this:
+(https://www.youtube.com/watch?v=EmoF-sdWOCc)The parts you have for the speaker connection are a bit different and should look like this:
 
 https://www.dropbox.com/s/nkzygzn4k2r7qdy/20201110_193146.jpg?dl=0
 
@@ -28,13 +28,16 @@ https://www.dropbox.com/s/871iw2y4udlfwzu/cd40106be.pdf?dl=0
 
 Film a short clip of each configuration and share in your documentation.
 
+
 #### Homework Link:
 
 https://youtu.be/VsfLNeirFtc
 
 
 
-#### Lab 2 Link:
+### Lab 2 
+
+#### Homework Link:
 
 https://youtu.be/VsfLNeirFtc
 
