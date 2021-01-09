@@ -28,13 +28,13 @@ https://www.dropbox.com/s/871iw2y4udlfwzu/cd40106be.pdf?dl=0
 
 Film a short clip of each configuration and share in your documentation.
 
-##### Homework:
+#### Homework Link:
 
 https://youtu.be/VsfLNeirFtc
 
 
 
-#### Lab 2:
+#### Lab 2 Link:
 
 https://youtu.be/VsfLNeirFtc
 
