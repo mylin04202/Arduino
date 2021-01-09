@@ -1,9 +1,3 @@
-## Week08 -  Eagle and Arduino nano 33
-Schedule
-
-#### 20/21 Creative Making: Advanced Physical Computing
-
-Minyue Lin
 
 
 
