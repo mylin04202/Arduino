@@ -15,8 +15,8 @@ https://www.arduino.cc/reference/en/#structure
 
 #### Lab01
 
-https://youtu.be/VsfLNeirFtc
+Homework Link： https://youtu.be/VsfLNeirFtc
 
 #### Lab02
 
-https://youtu.be/Q8jcBY_OGSs
+Homework Link： https://youtu.be/Q8jcBY_OGSs
