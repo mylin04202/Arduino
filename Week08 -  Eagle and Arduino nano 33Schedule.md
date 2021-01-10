@@ -28,13 +28,13 @@ Note, you'll be able to find Arduino libraries for every sensor on the chip. Jus
 
 #### Project：
 
-![image-20201215213913619](/Users/noahl/Library/Application Support/typora-user-images/image-20201215213913619.png)
+![image](https://github.com/mylin04202/img/blob/main/image-20201215213913619.png)
 
-![image-20201215213901546](/Users/noahl/Library/Application Support/typora-user-images/image-20201215213901546.png)
+![image](https://github.com/mylin04202/img/blob/main/image-20201215213817509.png)
 
-![image-20201215213851801](/Users/noahl/Library/Application Support/typora-user-images/image-20201215213851801.png)
+![image](https://github.com/mylin04202/img/blob/main/image-20201215213901546.png)
 
-![image-20201215213817509](/Users/noahl/Library/Application Support/typora-user-images/image-20201215213817509.png)
+![image](https://github.com/mylin04202/img/blob/main/image-20201215213851801.png)
 
 
 
@@ -90,4 +90,4 @@ information acquisition section with brainwave acquisition sensors for brainwave
 
 ##### Diagram of the control principle：
 
-![image-20201215085439514](/Users/noahl/Library/Application Support/typora-user-images/image-20201215085439514.png)
+![image](https://github.com/mylin04202/img/blob/main/image-20201215085439514.png)
