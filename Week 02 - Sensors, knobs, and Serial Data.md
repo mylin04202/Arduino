@@ -41,6 +41,9 @@ What I was made was a small contactless doorbell device. A now everyone need to 
 
 So I try to improve the doorbell what we use now. And then I will put this small device on the door. I would stick a note on the door which talk deliveryman how to use it. They just need to wave his hand in front of the sensor,then they could leave. This way I can hear the buzzer or see the LED flashing and know the delivery is at the door. It reduces the possibility I miss it.SO we can avoid contacting with each other. It sounds like a doorbell we can see everywhere, but the deliveryman doesn't have to knock or touch the doorbell,which is more convenient and healthful.
 
+![image](https://github.com/mylin04202/img/blob/main/knock.jpeg)
+![image](https://github.com/mylin04202/img/blob/main/distance.jpg)
+
 ![image](https://github.com/mylin04202/img/blob/main/w02l04.png)
 
 
