@@ -12,7 +12,7 @@ Protip: If you use your student email and register as a student with Autodesk, i
 
 #### Project：
 
-![image-20201215210708325](/Users/noahl/Library/Application Support/typora-user-images/image-20201215210708325.png)
+![image](https://github.com/mylin04202/img/blob/main/image-20201215210708325.png)
 
 
 
