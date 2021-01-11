@@ -15,11 +15,11 @@ https://www.youtube.com/watch?v=EmoF-sdWOCc
 (https://www.youtube.com/watch?v=EmoF-sdWOCc)
 The parts you have for the speaker connection are a bit different and should look like this:
 
-![image](https://www.dropbox.com/s/nkzygzn4k2r7qdy/20201110_193146.jpg?dl=0)
+![image](https://ucf2a59052f00e41a579e04f8d46.previews.dropboxusercontent.com/p/thumb/ABCo5bMVeHyt0AUDWv7eGhSoUhwxoBZ4JLqRL1Li3d4yz2JSyEWKwVord1E8kxNgpqQQfh30961tMnAlWPj6SIE5JBrENHkgUHOE9IWZt04-RGmgQXR73UUsIO3gXT8HrRmZgBTZDE7kk2IrtzzmJj_rb5ulFEIJarpv5VzyMhudZsNxUeyHnkCTZNRXHS4hGsFqeKP1Oy3yrsQdIuEbpy65ScnIUblzZI0MRPUGi5RSYsKZq_UT-lS1Axv7cXL5rP7070AgvxRZ8mFgo0HRSKdrW8eIe7Of5enbtp7EFDmqQDLgZzFDbybsf2VKtGp5qX_TLH7Z-m_83b365rBmQgsnCJ3BYWurd8Vc5rsF12ofmoTYHhngaWh-VTcHM137hDWKba_JRzHP9r9vRDvln6Rk/p.jpeg?size=2048x1536&size_mode=3)
 
-![image](https://www.dropbox.com/s/rr87sgjdic8113i/20201110_193210.jpg?dl=0)
+![image](https://ucd1cf69d5477ba7a4e176ccfdab.previews.dropboxusercontent.com/p/thumb/ABBlFiCE64iEI4RAoJpK5R0ntl1epIaeNKBkyB7vHhU59C6kT8_6L3gntwDiZ3LRDMEd2hwYXhNq19GNstU5TNDuDCBFigAAX34Md53ACgzWKOTrAyfVqc7d-3qa8GYPra_E4H2sLEEK2-XYSTVPy5GA_JcsqnEjB8q54o8MPNfrVIhvxGtBkyQ-i23w5ZsvqFgjqUjBkc_HNp3jQB5FDVRo-4pFt6sxhpOk0LE5Z5D1aDYG7ul1Yuyz-HzYLMvRy_0x3eU_J1X_mju6pjCA9iYYyQAebRhDgKiqZs7wOr7BWhIfJ0GzaXxU4h_4HEPUNj7sTDJ-kn7Vk7u6bBim8FtCHwkCjiiF8arcMRB5jWku1Kki2LyrVGB9xSeDyzhGoNqw6pVQoR9NYhd3fTLJARUT/p.jpeg?fv_content=true&size_mode=5)
 
-![image](https://www.dropbox.com/s/48mrv9b4enooogp/20201110_193219.jpg?dl=0)
+![image](https://uc16918e4e544b3f0d36e10ad43f.previews.dropboxusercontent.com/p/thumb/ABA2uspPG-Tb21QRAIqds6miVmUA5_DNjK6lcS1ePYG16pOix2k0isrYXhwe__pE7ULRA3wCApEikhYpL110AozQ8ePUGGFvmyA02A2V-fAMC8bYWxytmOQTrfvvgV5veeC9fqeYHYvZAz8hOClWBOsM5-YYLl9K5coZIcIBCSn72eCaZKe3SihcJpUkgop6Kn7-Ras1cqx1SJW03MOhE4zQ8Q5g-2Ymo4JTC8lpbRjRiOgF1tPkanUV3l9sLr1CqQ12phqQ3zwmtbYy1N07ys5jC2p3fYPuip28N9qMMuTGI5Ap08O0SFmRLPLl86_UO6kp1avPUPwizp3eWv5PiABC-_PrQrxb5dM8O2vS0PxcfhDE3cMayNeAJQre-RdLHpRgtQOGPs_9shn54AcxiqN5/p.jpeg?size=2048x1536&size_mode=3)
 
 
 #### Circuit Diagram
