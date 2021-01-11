@@ -8,6 +8,70 @@
 
 Hook up a servo and make it move using pwm.[Do this tutorial](https://www.instructables.com/id/Arduino-Servo-Motors/)
 
+#### Tutorial：
+
+We will need the following things:
+
+1. An Arduino board connected to a computer via USB
+2. A servo motor
+3. Jumper wires
+
+##### Step 1: How to Connect Them
+
+![image](https://content.instructables.com/ORIG/FYG/SWN3/IBXMMLB3/FYGSWN3IBXMMLB3.png?auto=webp&frame=1&width=1024&fit=bounds&md=82e53a3443fd67343967a3199d2aeca0)
+A servo motor has everything built in: a motor, a feedback circuit, and most important, a motor driver. It just needs one power line, one ground, and one control pin.
+
+Following are the steps to connect a servo motor to the Arduino:
+
+The servo motor has a female connector with three pins. The darkest or even black one is usually the ground. Connect this to the Arduino GND.
+Connect the power cable that in all standards should be red to 5V on the Arduino.
+Connect the remaining line on the servo connector to a digital pin on the Arduino.
+
+##### Step 2: Code
+
+The following code will turn a servo motor to 0 degrees, wait 1 second, then turn it to 90, wait one more second, turn it to 180, and then go back.
+
+```
+// Include the Servo library 
+#include <Servo.h> 
+// Declare the Servo pin 
+int servoPin = 3; 
+// Create a servo object 
+Servo Servo1; 
+void setup() { 
+   // We need to attach the servo to the used pin number 
+   Servo1.attach(servoPin); 
+}
+void loop(){ 
+   // Make servo go to 0 degrees 
+   Servo1.write(0); 
+   delay(1000); 
+   // Make servo go to 90 degrees 
+   Servo1.write(90); 
+   delay(1000); 
+   // Make servo go to 180 degrees 
+   Servo1.write(180); 
+   delay(1000); 
+}
+
+```
+If the servo motor is connected on another digital pin, simply change the value of servoPin to the value of the digital pin that has been used.
+
+![image](https://content.instructables.com/ORIG/F8A/CFQ0/IBXMML86/F8ACFQ0IBXMML86.png?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=8b86c54c8d87a2798cf28dabf8d400df)
+
+Servos are clever devices. Using just one input pin, they receive the position from the Arduino and they go there. Internally, they have a motor driver and a feedback circuit that makes sure that the servo arm reaches the desired position. But what kind of signal do they receive on the input pin?
+
+It is a square wave similar to PWM. Each cycle in the signal lasts for 20 milliseconds and for most of the time, the value is LOW. At the beginning of each cycle, the signal is HIGH for a time between 1 and 2 milliseconds. At 1 millisecond it represents 0 degrees and at 2 milliseconds it represents 180 degrees. In between, it represents the value from 0–180. This is a very good and reliable method. The graphic makes it a little easier to understand.
+
+Remember that using the Servo library automatically disables PWM functionality on PWM pins 9 and 10 on the Arduino UNO and similar boards.
+
+Code breakdown
+The code simply declares the servo object and then initializes the servo by using the servo.attach() function. We shouldn't forget to include the servo library. In the loop(), we set the servo to 0 degrees, wait, then set it to 90, and later to 180 degrees.
+
+
+https://www.instructables.com/id/Arduino-Servo-Motors/
+
+
 ### VedioLink：
 
 https://www.tinkercad.com/things/58FfKepfxFJ-mighty-blorr/editel?tenant=circuits
